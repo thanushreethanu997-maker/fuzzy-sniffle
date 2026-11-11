@@ -1,0 +1,6 @@
+2026-11-11 18:32:55,919 - INFO - Application started
+2026-11-11 18:32:55,919 - INFO - User login successful
+2026-11-11 18:32:55,919 - INFO - Division successful
+2026-11-11 18:32:55,920 - ERROR - Cannot divide by zero
+2026-11-11 18:32:55,920 - INFO - Application completed
+login("")
